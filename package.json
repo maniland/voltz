@@ -1,0 +1,31 @@
+{
+  "name": "voltz",
+  "version": "1.0.0",
+  "description": "voltz site",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maniland/voltz.git"
+  },
+  "author": "mark niland",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maniland/voltz/issues"
+  },
+  "homepage": "https://github.com/maniland/voltz#readme",
+  "devDependencies": {
+    "source-map-loader": "^0.1.5",
+    "ts-loader": "^0.8.2",
+    "tslint-loader": "^2.1.5",
+    "typings": "^1.4.0",
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.15.0"
+  },
+  "dependencies": {
+    "tslint": "^3.15.1",
+    "typescript": "^2.0.7"
+  }
+}
